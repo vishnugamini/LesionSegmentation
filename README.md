@@ -22,11 +22,4 @@ The UNet architecture is known for its contracting and expansive paths, which en
 
 After extensive training and hyperparameter tuning, the model achieved an impressive accuracy of 93% on the validation set. The segmentation outputs demonstrate high precision in identifying cancerous cells and effectively segmenting them from the surrounding healthy tissue.
 
-## Usage
 
-To use the code provided in this repository, follow these steps:
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/skin-cancer-cells-segmentation.git
